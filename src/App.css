@@ -1,38 +1,29 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.tamil{
+  width: 250px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.dhurai{
+  background-color: rgb(196, 22, 215);
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.cards{
+  width: 300px;
 }
-
-.App-link {
-  color: #61dafb;
+.color-nav{
+  background-color: rgba(226, 140, 12, 0.838);
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.form{
+  background-color: rgb(26, 112, 232);
+  /* #FFFFFF
+  #9F2187
+  #C62074
+  #D04035
+  #ECB941
+  #EEE445
+  #A7C64D */
+}
+.bg{
+  background-image: linear-gradient(to right,  #9F2187,   #C62074,  #D04035, #ECB941, #EEE445,#A7C64D);
+}
+.width1{
+  width: 28rem;
 }
